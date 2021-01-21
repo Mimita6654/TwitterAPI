@@ -1,0 +1,16 @@
+1. pythonをインストールする。このサイトを参考に
+   https://www.javadrive.jp/python/install/index5.html
+
+2. twitter.pyを編集する
+   ・196～199行目にCK, CS, AT, ASという変数があるので、
+   　そこにTwitterAPIで取得した各値を代入させる。
+   ・202行目にscreen_nameという変数があるので、
+     取得したいアカウント名(＠のあとに書いてあるやつ)を代入させる。
+   ・twitter.pyを保存する。
+
+3. setup.batを実行する。
+
+4. run.batを実行する。
+
+
+※ batファイル実行時にcmdがすぐに閉じてしまうときは連絡して。
